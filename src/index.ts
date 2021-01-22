@@ -56,6 +56,7 @@ document.getElementById('submit').addEventListener('click', () => {
 }, false)
 
 document.getElementById('play').addEventListener('click', () => {
+    context.p
 }, false)
 
 function draw(canvasId: string, buffer: Float32Array, width: number){
